@@ -1,0 +1,1 @@
+import{z as e}from"./CO2YwPdk.js";import"./IhTRzXXp.js";var t=e(`alle`),n=e([]);export{n,t};
